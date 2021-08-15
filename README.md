@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/48806275/129466833-8e83b37d-831c-4306-a0b7-377c93b9f931.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467408-2a96e15e-45a0-4de9-800c-9903d2b8ae0d.png " width="20%" height="20%"/>검색클릭5자동완성
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129466835-82fbaaf2-f7af-4705-ae0a-dc79d8a28f72.png " width="20%" height="20%"/>검색마커클릭
+<img src="https://user-images.githubusercontent.com/48806275/129466835-82fbaaf2-f7af-4705-ae0a-dc79d8a28f72.png " width="20%" height="20%"/>검색시 마커생성
 
 <img src="https://user-images.githubusercontent.com/48806275/129466836-16406ac9-32d9-4568-8077-6eb147ef6a56.png " width="20%" height="20%"/>검색마커 거리뷰버튼클릭
 
