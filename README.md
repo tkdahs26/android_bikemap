@@ -19,7 +19,6 @@
 <img src="https://user-images.githubusercontent.com/48806275/129466837-b81387e8-b787-44f9-9a78-a0b77e2733e5.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129466839-80d07040-478c-474b-8712-39c82fb8b6ff.png " width="20%" height="20%"/>검색마커 사진버튼클릭
 
 <img src="https://user-images.githubusercontent.com/48806275/129466840-805d5230-9fef-48e7-8cb2-786ee5591638.png " width="20%" height="20%"/>전화버튼클릭
-
 <img src="https://user-images.githubusercontent.com/48806275/129466841-ec60cc5b-98f0-4507-8fe7-72ae52124dff.png " width="20%" height="20%"/>홈페이지버튼클릭
 
 <img src="https://user-images.githubusercontent.com/48806275/129466842-0e470690-bb6e-4c17-b311-e0dc62e2ba67.png " width="20%" height="20%"/>맵클릭시 큰 마커생성
