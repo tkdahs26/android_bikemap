@@ -22,9 +22,9 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/129466841-ec60cc5b-98f0-4507-8fe7-72ae52124dff.png " width="20%" height="20%"/>홈페이지버튼클릭
 
-<img src="https://user-images.githubusercontent.com/48806275/129466842-0e470690-bb6e-4c17-b311-e0dc62e2ba67.png " width="20%" height="20%"/>첫화면
+<img src="https://user-images.githubusercontent.com/48806275/129466842-0e470690-bb6e-4c17-b311-e0dc62e2ba67.png " width="20%" height="20%"/>맵클릭시 마커생성
 
-<img src="https://user-images.githubusercontent.com/48806275/129466843-c9613df8-61b8-41ca-91fa-67d50961a5e0.png " width="20%" height="20%"/>첫화면
+<img src="https://user-images.githubusercontent.com/48806275/129466843-c9613df8-61b8-41ca-91fa-67d50961a5e0.png " width="20%" height="20%"/>마커클릭
 
-<img src="https://user-images.githubusercontent.com/48806275/129466844-d5a41889-3ab1-411c-8584-8dcc46d45afb.png " width="20%" height="20%"/>첫화면
+<img src="https://user-images.githubusercontent.com/48806275/129466844-d5a41889-3ab1-411c-8584-8dcc46d45afb.png " width="20%" height="20%"/>마커 주변사진버튼클릭
 
