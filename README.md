@@ -3,8 +3,7 @@
 ##### bike 포트폴리오 작성중
 <img src="https://user-images.githubusercontent.com/48806275/129466845-80a65fa2-28ef-4bcb-811e-dbfe06de4875.png " width="20%" height="20%"/>첫화면 전국확대함
 
-<img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/>
-<img src="https://user-images.githubusercontent.com/48806275/129467330-15f9ab55-ae4b-46df-8250-f716857f424e.png" width="20%" height="20%"/>서울 광양 
+<img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467330-15f9ab55-ae4b-46df-8250-f716857f424e.png" width="20%" height="20%"/>서울 광양 
 
 <img src="https://user-images.githubusercontent.com/48806275/129466847-7f808f50-d6c4-416a-9b37-75100b0a40cb.png " width="20%" height="20%"/>
 <img src="https://user-images.githubusercontent.com/48806275/129466829-1bbaa385-c1fd-4339-8487-32c94bf595ea.png " width="20%" height="20%"/>마커클릭
