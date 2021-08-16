@@ -3,7 +3,7 @@
 ##### bike 포트폴리오 작성중 개인프로젝트 두번째로 만든것  사용기술 자전거대여소api   인터페이스
 <img src="https://user-images.githubusercontent.com/48806275/129466845-80a65fa2-28ef-4bcb-811e-dbfe06de4875.png " width="20%" height="20%"/>첫화면 다른 지역도있으면 할예정 현재 서울 광양만 있음
 
-<img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/>서울버튼클릭<img src="https://user-images.githubusercontent.com/48806275/129467571-e34fc158-a4f3-443c-9e13-258a6c1ee9e1.png " width="20%" height="20%"/>광양버튼클릭
+<img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/>서울버튼클릭<img src="https://user-images.githubusercontent.com/48806275/129467571-e34fc158-a4f3-443c-9e13-258a6c1ee9e1.png " width="20%" height="20%"/>광양버튼클릭  자전거대여소의 좌표마다 마커를생성
 광양버튼클릭 
 
 <img src="https://user-images.githubusercontent.com/48806275/129466847-7f808f50-d6c4-416a-9b37-75100b0a40cb.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129466829-1bbaa385-c1fd-4339-8487-32c94bf595ea.png " width="20%" height="20%"/>마커클릭 자전거 개수알려
