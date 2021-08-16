@@ -1,7 +1,7 @@
 # android_bikemap
 
 ##### bike 포트폴리오 작성중 개인프로젝트 두번째로 만든것
-<img src="https://user-images.githubusercontent.com/48806275/129466845-80a65fa2-28ef-4bcb-811e-dbfe06de4875.png " width="20%" height="20%"/>첫화면 다른 지역도있으면 할예정
+<img src="https://user-images.githubusercontent.com/48806275/129466845-80a65fa2-28ef-4bcb-811e-dbfe06de4875.png " width="20%" height="20%"/>첫화면 다른 지역도있으면 할예정 현재 서울 광양만 있음
 
 <img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/>서울버튼클릭<img src="https://user-images.githubusercontent.com/48806275/129467571-e34fc158-a4f3-443c-9e13-258a6c1ee9e1.png " width="20%" height="20%"/>광양버튼클릭
 광양버튼클릭 
