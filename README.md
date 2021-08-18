@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/129466831-a587b658-5337-4315-805c-e29b661c9520.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129466832-d011cee2-db59-4d82-b43f-83564fca0fef.png " width="20%" height="20%"/>거리뷰버튼클릭: streetview api 활용
 
-<img src="https://user-images.githubusercontent.com/48806275/129466833-8e83b37d-831c-4306-a0b7-377c93b9f931.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467408-2a96e15e-45a0-4de9-800c-9903d2b8ae0d.png " width="20%" height="20%"/>맵 상단 검색클릭: 자동완성 인터페이스 구글 place autocomplete 활용
+<img src="https://user-images.githubusercontent.com/48806275/129466833-8e83b37d-831c-4306-a0b7-377c93b9f931.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467408-2a96e15e-45a0-4de9-800c-9903d2b8ae0d.png " width="20%" height="20%"/>검색클릭: 자동완성 인터페이스 구글 place autocomplete 활용
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129466835-82fbaaf2-f7af-4705-ae0a-dc79d8a28f72.png " width="20%" height="20%"/>검색: 마커생성 마커정보는 autocomplete  인터페이스에서받음
