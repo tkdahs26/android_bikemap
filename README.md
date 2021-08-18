@@ -16,7 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/129466836-16406ac9-32d9-4568-8077-6eb147ef6a56.png " width="20%" height="20%"/>검색마커의 거리뷰버튼클릭: streetview api
 
-<img src="https://user-images.githubusercontent.com/48806275/129466837-b81387e8-b787-44f9-9a78-a0b77e2733e5.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129466839-80d07040-478c-474b-8712-39c82fb8b6ff.png " width="20%" height="20%"/>검색마커의 사진버튼클릭: google autocomplete의 사진데이터를 받아서 출력
+<img src="https://user-images.githubusercontent.com/48806275/129466837-b81387e8-b787-44f9-9a78-a0b77e2733e5.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129466839-80d07040-478c-474b-8712-39c82fb8b6ff.png " width="20%" height="20%"/>검색마커의 사진버튼클릭: google autocomplete의 사진(photometa) 받아서 출력
 
 <img src="https://user-images.githubusercontent.com/48806275/129466840-805d5230-9fef-48e7-8cb2-786ee5591638.png " width="20%" height="20%"/>전화버튼클릭
 <img src="https://user-images.githubusercontent.com/48806275/129466841-ec60cc5b-98f0-4507-8fe7-72ae52124dff.png " width="20%" height="20%"/>홈페이지버튼클릭
@@ -28,4 +28,4 @@
 <img src="https://user-images.githubusercontent.com/48806275/129466844-d5a41889-3ab1-411c-8584-8dcc46d45afb.png " width="20%" height="20%"/>마커 주변사진버튼클릭: 주변 도시의 사진을 place api를 활용해서 받음
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129601438-0491197c-ac61-4ac5-8145-1fef7d8c0ca7.png" width="20%" height="20%"/>해당 도시의 사진이 없다는 오류 나올시
+<img src="https://user-images.githubusercontent.com/48806275/129601438-0491197c-ac61-4ac5-8145-1fef7d8c0ca7.png" width="20%" height="20%"/>해당 마커의 사진이 없다는 오류 나올시
