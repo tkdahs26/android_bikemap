@@ -1,6 +1,6 @@
 # android_bikemap
 
-##### bike앱 두번째 개인프로젝트 공공자전거위치 포트폴리오     
+##### bike앱 두번째 개인프로젝트 공공자전거위치 
 <img src="https://user-images.githubusercontent.com/48806275/129466845-80a65fa2-28ef-4bcb-811e-dbfe06de4875.png " width="20%" height="20%"/>첫화면: 현재 api는 서울 광양만 있음
 서울버튼,광양버튼클릭:  자전거대여소의 마커를생성
 <img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467571-e34fc158-a4f3-443c-9e13-258a6c1ee9e1.png " width="20%" height="20%"/>
