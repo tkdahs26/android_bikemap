@@ -29,5 +29,5 @@
 <img src="https://user-images.githubusercontent.com/48806275/129466844-d5a41889-3ab1-411c-8584-8dcc46d45afb.png " width="20%" height="20%"/>마커 주변사진버튼클릭: 주변 도시의 사진을 place api를 활용
 
 
-<img src="https://user-images.githubusercontent.com/48806275/129601438-0491197c-ac61-4ac5-8145-1fef7d8c0ca7.png" width="20%" height="20%"/>해당 마커의 사진이 없다는 오류 나올시
+<img src="https://user-images.githubusercontent.com/48806275/129601438-0491197c-ac61-4ac5-8145-1fef7d8c0ca7.png" width="20%" height="20%"/>해당 마커의 사진 api에 없다는 오류 나올시
  
