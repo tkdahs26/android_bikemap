@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/48806275/129466840-805d5230-9fef-48e7-8cb2-786ee5591638.png " width="20%" height="20%"/>전화버튼클릭
 <img src="https://user-images.githubusercontent.com/48806275/129466841-ec60cc5b-98f0-4507-8fe7-72ae52124dff.png " width="20%" height="20%"/>홈페이지버튼클릭
 
-<img src="https://user-images.githubusercontent.com/48806275/129466842-0e470690-bb6e-4c17-b311-e0dc62e2ba67.png " width="20%" height="20%"/>맵 아무곳에 클릭: 큰 마커생성 geocoder활용
+<img src="https://user-images.githubusercontent.com/48806275/129466842-0e470690-bb6e-4c17-b311-e0dc62e2ba67.png " width="20%" height="20%"/>맵 아무곳에 클릭: 큰 마커생성 geocoder활용 (자전거대여소말고도 기본 지도의 기능 첨부)
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129466843-c9613df8-61b8-41ca-91fa-67d50961a5e0.png " width="20%" height="20%"/>마커클릭: 사진은 place api에서받음
