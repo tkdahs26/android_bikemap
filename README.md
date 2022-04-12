@@ -1,7 +1,7 @@
 # android_bikemap
 
 ##### 두번째 개인프로젝트 공공데이터포털api사이트 활용한 공용자전거위치찾기
-추가사용기술 구글api 지도api android
+사용기술 구글api 지도api android
 
 <img src="https://user-images.githubusercontent.com/48806275/129466845-80a65fa2-28ef-4bcb-811e-dbfe06de4875.png " width="20%" height="20%"/>첫화면:공공데이터포털의 자료에는 서울 광양만 있음
 클릭시  자전거대여소의 마커를생성
