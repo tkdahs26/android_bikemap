@@ -4,9 +4,9 @@
 사용기술 구글api 지도api android
 
 <img src="https://user-images.githubusercontent.com/48806275/129466845-80a65fa2-28ef-4bcb-811e-dbfe06de4875.png " width="20%" height="20%"/>첫화면:서울 광양 버튼(공공데이터포털참고)
-클릭시  자전거대여소의 마커를생성
 
-<img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467571-e34fc158-a4f3-443c-9e13-258a6c1ee9e1.png " width="20%" height="20%"/>
+
+<img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467571-e34fc158-a4f3-443c-9e13-258a6c1ee9e1.png " width="20%" height="20%"/>클릭시  자전거대여소의 마커를생성
 
 <img src="https://user-images.githubusercontent.com/48806275/129466847-7f808f50-d6c4-416a-9b37-75100b0a40cb.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129466829-1bbaa385-c1fd-4339-8487-32c94bf595ea.png " width="20%" height="20%"/>마커클릭: 자전거 거치대수와 현재거치수 표기
 
