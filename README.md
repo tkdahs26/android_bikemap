@@ -29,7 +29,7 @@
 
 <img src="https://user-images.githubusercontent.com/48806275/129466843-c9613df8-61b8-41ca-91fa-67d50961a5e0.png " width="20%" height="20%"/>마커클릭:geocoder로 주소받고 사진은 place api에서받음
 
-<img src="https://user-images.githubusercontent.com/48806275/129466844-d5a41889-3ab1-411c-8584-8dcc46d45afb.png " width="20%" height="20%"/>마커 주변사진버튼클릭: 주변 도시의 사진을 place api를 활용
+<img src="https://user-images.githubusercontent.com/48806275/129466844-d5a41889-3ab1-411c-8584-8dcc46d45afb.png " width="20%" height="20%"/>마커 주변사진버튼클릭: 주변 도시의 사진을 받아옴 place api를 활용
 
 <img src="https://user-images.githubusercontent.com/48806275/162346247-efda4f98-27a2-4921-9ba5-b6b841cb8bf6.png " width="20%" height="20%"/>위 사진요소 클릭: 사진 게시자의 정보로 넘어감
 
