@@ -3,7 +3,7 @@
 ##### 두번째 개인프로젝트 공공데이터포털api사이트 활용한 공용자전거위치찾기
 사용기술 구글api 지도api android
 
-<img src="https://user-images.githubusercontent.com/48806275/163067348-bdfea364-7aab-4e94-871f-b28b5a1f927e.png " width="20%" height="20%"/>첫화면:서울 광양 버튼(공공데이터포털참고)
+<img src="https://user-images.githubusercontent.com/48806275/163067348-bdfea364-7aab-4e94-871f-b28b5a1f927e.png " width="20%" height="20%"/>첫화면:서울 광양 버튼(공공데이터포털사이트참고)
 
 
 <img src="https://user-images.githubusercontent.com/48806275/129466846-0d1f6742-e6e0-4208-9c1f-e4c14055304c.png " width="20%" height="20%"/><img src="https://user-images.githubusercontent.com/48806275/129467571-e34fc158-a4f3-443c-9e13-258a6c1ee9e1.png " width="20%" height="20%"/>클릭시  자전거대여소의 마커를생성
