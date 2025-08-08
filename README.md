@@ -1,7 +1,7 @@
 # android_bikemap
 
 ##### 두번째 개인어플만들기 공공데이터포털api사이트 활용한 공용자전거위치찾기
-사용기술 구글api 지도api android
+사용기술 구글api 공공데이터포털api android json
 
 <img src="https://user-images.githubusercontent.com/48806275/163067348-bdfea364-7aab-4e94-871f-b28b5a1f927e.png " width="20%" height="200%"/>첫화면:서울 광양 버튼(공공데이터포털사이트참고)
 
